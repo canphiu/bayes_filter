@@ -1,0 +1,23 @@
+<package>
+  
+  <name>bayes_filter</name>  
+  <version>0.1.0</version>  
+  <description>
+    Bayes++ (http://bayesclasses.sourceforge.net), the Bayesian Filtering Library, is an open source 
+    library which represents and implements a wide variety of numerical algorithms for Bayesian filtering 
+    of discrete systems. It provides tested and consistent numerical methods and the class hierarchy 
+    explicitly represents the variety of filtering algorithms and system model types
+  </description>  
+  <maintainer email="trung-dung.vu@inria.fr">Trung-Dung Vu</maintainer> 
+  <author>Michael Stevens</author>
+  <license>MIT License</license>    
+  <url>http://ros.org/wiki/bayes_filter</url>  
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <export>
+  </export>
+
+</package>
+
+
